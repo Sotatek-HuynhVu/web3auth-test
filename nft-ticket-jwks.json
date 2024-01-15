@@ -1,0 +1,9 @@
+{
+    "kty": "RSA",
+    "n": "s7fSqq3xyu32gp2oPo3CBJy_idQOYcEoNZFNX_a7mUBuu--smX_vqkyxwr0BIZwNEmlsu0Ikgck-fKsofLndMtu282TLuJlZcMeVkOt6b31stFR0c9sH-lBej3z4YdvCOu8kGboIhfKvsyMG3huTIpvFOKCtVTj6aIK0a5z38qxxRMX2iDPRKVUqXJfPcEZw0zEjFvGADXJ2EVC8GkvY7x94RIN5WBLl9zts9edb32tZlRQvS7HKujTrHWVtVMa3f0FoEy5haM9Zekd17ApnEN8cRWqg0y8fmybJITQ-rvoQxQSLDNNVBVWPVR78LPeqKjIJ82CURyiV406McTipHw",
+    "e": "AQAB",
+    "ext": true,
+    "kid": "nft-ticket",
+    "alg": "RS256",
+    "use": "sig"
+  }
